@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Code-Ninja007
+- 👋 Hi, I’m @Code-Ninja007 aka Harsh Bhatt
 - 👀 I’m interested in Learning DSA and Adjoined open source projects
 - 🌱 I’m currently on a learning curve
 - 💞️ I’m looking to collaborate on ...
