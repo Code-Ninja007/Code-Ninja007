@@ -19,15 +19,15 @@
 ```text
 ┌──────────────────────────────────────────────────────┐
 │                                                      │
-│   👋 Hey! I'm Harsh Bhatt aka @Code-Ninja007        │
+│   👋 Hey! I'm Harsh Bhatt aka @Code-Ninja007         │
 │                                                      │
-│   🎓 Computer Science & Engineering Student          │
+│   🎓 Computer Science & Engineering Student         │
 │   🧠 Currently Learning: DSA + Problem Solving      │
 │   🤖 Exploring: AI / ML / Software Development      │
-│   🌱 Status: Always on a learning curve              │
-│   🌍 Interest: Open Source & Collaboration           │
-│   ⚡ Motto: GO GETTER                                │
-│                                                      │
+│   🌱 Status: Always on a learning curve             │
+│   🌍 Interest: Open Source & Collaboration          │
+│   ⚡ Motto: GO GETTER                               │
+│                                                     │
 └──────────────────────────────────────────────────────┘
 ```
 
